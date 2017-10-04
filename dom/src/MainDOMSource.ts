@@ -32,6 +32,7 @@ const eventTypesThatDontBubble = [
   `playing`,
   `ratechange`,
   `reset`,
+  `resize`,
   `scroll`,
   `seeked`,
   `seeking`,
